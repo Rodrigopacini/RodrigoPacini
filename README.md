@@ -13,6 +13,14 @@ I'm also the founder of [Agora](https://github.com/Rodrigopacini/agora), an init
 
 ---
 
+## 🤝 Who I Work With
+
+- 🌐 DAOs seeking governance research, accountability tools, or proposal evaluation
+- 🗳️ Voters and delegators looking for clarity and transparency in on-chain decisions
+- 🚀 Founders, grant platforms, and ecosystems aiming to improve public reasoning and critical analysis in treasury allocation
+
+---
+
 ## 🌟 Featured Work
 
 📄 **Governance Action Review – Cardano Blockchain Ecosystem Budget 275M ADA administered by Intersect (May/June 2025)**  
