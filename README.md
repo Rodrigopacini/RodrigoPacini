@@ -40,7 +40,7 @@ Over 1,000 proposals reviewed, 3,000+ community reviews moderated, and 100+ mile
 ### 📌 [Manifesto Cardano Brasil](https://github.com/Rodrigopacini/manifesto-cardano-brasil)
 A funded community research initiative exploring political identity, representation, and governance in the Brazilian Cardano community. Includes publications and workshops on CIP-1694.
 
-### 📌 [AGORA](https://github.com/agora)
+### 📌 [Agora|CArdano](https://github.com/Agora-Cardano)
 An independent research and advocacy initiative committed to improving the quality and decentralization of governance in Cardano through frameworks, analysis, and community education.
 
 ---
